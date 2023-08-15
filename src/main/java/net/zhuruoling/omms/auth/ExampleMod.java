@@ -1,4 +1,4 @@
-package com.example;
+package net.zhuruoling.omms.auth;
 
 import net.fabricmc.api.ModInitializer;
 

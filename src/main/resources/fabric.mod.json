@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+          "net.zhuruoling.omms.auth.ExampleMod"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+          "net.zhuruoling.omms.auth.ExampleModClient"
 		]
 	},
 	"mixins": [
